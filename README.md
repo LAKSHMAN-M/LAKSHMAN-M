@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA using Java.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LAKSHMAN-M/MyFirst/tree/MyProjects](https://github.com/LAKSHMAN-M/MyFirst/tree/MyProjects)
+- 👨‍💻 All of my projects are available at [MyProjects](https://github.com/LAKSHMAN-M/MyFirst/tree/MyProjects)
 
 - 💬 Ask me about **Study related matter**
 
