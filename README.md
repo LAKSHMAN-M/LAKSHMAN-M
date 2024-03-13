@@ -6,6 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshman-m&label=Profile%20views&color=0e75b6&style=flat" alt="lakshman-m" /> </p>
 
 - 🌱 I’m currently learning **DSA using Java.**
+  
+- 📄 My [Resume](https://github.com/LAKSHMAN-M/Resume)
 
 - 👨‍💻 All of my projects are available at [MyProjects](https://github.com/LAKSHMAN-M/MyFirst/tree/MyProjects)
 
