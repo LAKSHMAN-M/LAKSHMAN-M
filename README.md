@@ -9,8 +9,6 @@
   
 - 📄 My [Resume](https://github.com/LAKSHMAN-M/Resume/blob/7a02973c2d4b0176e590ca56097ae6c3e31bcb88/LakshmanResume.pdf)
 
-- 👨‍💻 All of my projects are available at [MyProjects](https://github.com/LAKSHMAN-M/MyFirst/tree/MyProjects)
-
 - 💬 Ask me about **Study related matter**
 
 - 📫 How to reach me **lakshmanpersonals@gmail.com**
