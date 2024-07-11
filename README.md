@@ -7,9 +7,11 @@
 
 - 🌱 I’m currently learning **DSA using Java.**
   
+- 🚀 Projects - [Links](https://github.com/LAKSHMAN-M/Projects)
+  
 - 📄 My [Resume](https://github.com/LAKSHMAN-M/Resume/blob/7a02973c2d4b0176e590ca56097ae6c3e31bcb88/LakshmanResume.pdf)
 
-- 💬 Ask me about **Study related matter**
+- 💬 Ask me about [**Study related matter**](https://www.linkedin.com/feed/)
 
 - 📫 How to reach me **lakshmanpersonals@gmail.com**
 
